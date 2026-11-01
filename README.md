@@ -89,7 +89,7 @@ Evaluation focuses on:
 💡 Aspiring AI/ML Engineer
 
 - 🐙 **GitHub:** [dheeraj24-coder](https://github.com/dheeraj24-coder)
-- 💼 **LinkedIn:** [Add Your LinkedIn Profile](https://www.linkedin.com/in/dheeraj-chouhan-7a6996371/)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/dheeraj-chouhan-7a6996371/
 - 📧 **Email:** dheerajchouhan4466@gmail.com
 
 ---
